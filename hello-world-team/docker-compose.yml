@@ -4,7 +4,7 @@ version: '3.7'
 # cat ~/.docker/config.json
 # {"auths":{},"credsStore":"", "credsStore":"desktop","stackOrchestrator":"swarm"}
 # I updated to this:
-# {"auths":{},"credsStore":"","stackOrchestrator":"swarm"}
+# {"auths":{},"credsStore":"","stackOrchestrator":"swarm"} 
 services:
   hello-world-team:
     #image: in28min/todo-web-application-mysql:0.0.1-SNAPSHOT
